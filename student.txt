@@ -1,0 +1,3 @@
+Name:xyz,roll no:101,class:BCA
+Name:abc,roll no:102,class:BCA
+Name:pqr,roll no:101,class:BCA
